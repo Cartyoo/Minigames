@@ -1,0 +1,4 @@
+name: Minigames
+version: '1.0-SNAPSHOT'
+main: xyz.herberto.minigames.Minigames
+api-version: '1.21'
